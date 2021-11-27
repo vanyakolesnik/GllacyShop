@@ -1,0 +1,11 @@
+.filter-taste {
+  display: flex;
+  display: flex;
+  width: 630px;
+  background-color: #a9bab0;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+.filter-taste li {
+  margin: 0 20px;
+}
