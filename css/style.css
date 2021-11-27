@@ -1128,6 +1128,7 @@ body {
   border-radius: 50%;
   height: 18px;
   width: 18px;
+  /* box-shadow: inset 1px 1px 1px black; */
 }
 .first-circle::before {
   content: "";
